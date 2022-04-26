@@ -28,8 +28,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'wa.me/6289654836567'
-global.author = 'Yor Forger'
+global.packname = '%name'
+global.author = 'Yor Forger-MD'
 global.multiplier = 69 // The higher, The harder levelup
 
 global.rpg = {
