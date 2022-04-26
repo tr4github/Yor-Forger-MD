@@ -15,26 +15,17 @@
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
 ### FOR TERMUX USER
-
+*kemungkinan error besar*
+```
 git clone https://github.com/tr4github/Yor-Forger-MD
 cd haruno-md
 npm install
 npm update
 npm start
 ```
-If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
-```sh
-$ node .
-```
 2. Wait for bot starting...
 3. Scan QR code from 2nd device. (Go to whatsapp > Linked Devices > Join `Multi Device Beta` > Click on `link device`)
-4. Now your bot is ready to rock n roll.
-
-#### If npm install failed, try using yarn instead of npm
-```sh
-$ pkg install yarn -y
-$ yarn install
-```
+4. Now your bot is ready 
 
 ## FOR WINDOWS/VPS/RDP USER
 
