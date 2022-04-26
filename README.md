@@ -18,7 +18,7 @@
 *kemungkinan error besar*
 ```
 git clone https://github.com/tr4github/Yor-Forger-MD
-cd haruno-md
+cd Yor Forger-MD
 npm install
 npm update
 npm start
