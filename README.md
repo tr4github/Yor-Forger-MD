@@ -15,6 +15,7 @@
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
 ### FOR TERMUX USER
+
 git clone https://github.com/tr4github/Yor-Forger-MD
 cd haruno-md
 npm install
