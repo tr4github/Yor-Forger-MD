@@ -36,7 +36,7 @@ npm start
 
 ```bash
 git clone https://github.com/tr4bot/Yor-Forger-MD
-cd Yor-Forger-MD
+cd Yor Forger-MD
 npm install
 npm update
 ```
