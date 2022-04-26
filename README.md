@@ -53,24 +53,11 @@ cd Yor-Forger-MD
 npm install
 npm update
 ```
-
----------
-
-## Run
-
-```bash
-node .
-```
-
-
-### `--test`
 ---------
 ### Thanks To 
 **Allah SWT**,
 
 **Orang Tua**,
-
-**Semua yang selalu mendukung**
 
 
 #### Special Thanks to
