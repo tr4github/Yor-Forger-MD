@@ -15,9 +15,7 @@
 | **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
 ### FOR TERMUX USER
-1. Type mentioned below given commands one by one in Termux.
-```sh
-git clone https://github.com/FadliDarmawan/haruno-md
+git clone https://github.com/tr4github/Yor-Forger-MD
 cd haruno-md
 npm install
 npm update
