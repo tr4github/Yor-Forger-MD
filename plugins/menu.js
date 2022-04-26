@@ -1,4 +1,5 @@
- import { promises } from 'fs'
+import fs from 'fs'
+import { promises } from 'fs'
 import { join } from 'path'
 import { xpRange } from '../lib/levelling.js'
 let tags = {
@@ -149,7 +150,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
       readmore: readMore
     }
     text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length - a.length).join`|`})`, 'g'), (_, name) => '' + replace[name])
-    const pp = await conn.profilePictureUrl(conn.user.jid).catch(_ => './src/avatar_contact.png')
+    const pp =fs.readFileSync('./media/Yor Forger-MD.jpg')
     conn.sendHydrated(m.chat, text.trim(), author, pp, 'https://github.com/tr4github/Yor-Forger-MD', 'Github', null, null, [
       ['Donate', '/donasi'],
       ['Speed', '/ping'],
