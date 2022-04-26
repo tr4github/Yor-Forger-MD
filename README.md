@@ -17,14 +17,14 @@
 ### FOR TERMUX USER
 1. Type mentioned below given commands one by one in Termux.
 ```sh
-$ pkg upgrade && pkg update
-$ pkg install git -y
-$ pkg install nodejs -y
-$ pkg install ffmpeg -y
-$ pkg install imagemagick -y
-$ git clone https://github.com/tr4github/Yor-forger-MD
-$ cd Yor-Forger-MD
-$ npm i 
+pkg upgrade && pkg update
+pkg install git -y
+pkg install nodejs -y
+pkg install ffmpeg -y
+pkg install imagemagick -y
+git clone https://github.com/tr4github/Yor-forger-MD
+cd Yor-Forger-MD
+npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
 ```sh
