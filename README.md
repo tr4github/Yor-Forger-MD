@@ -22,7 +22,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/tr4github/Yor-forger -b multi-device
+$ git clone https://github.com/tr4github/Yor-forger-MD
 $ cd Yor-Forger-MD
 $ npm i 
 ```
