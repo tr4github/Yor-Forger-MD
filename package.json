@@ -1,7 +1,7 @@
 {
-    "name": "Yor Forger-MD",
-    "version": "0.9.86",
-    "description": "Bot-MD by tr4github",
+    "name": "Yo Frger-MD",
+    "version": "2.0.0",
+    "description": "WhatsApp Bot By tr4github",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -20,27 +20,28 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "Putra Ferdiansyah",
-        "Yor Forger-MD",
+        "Games-wabot",
+        "wabot-aq",
         "multi-device",
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/tr4github/Yor-Forger-MD",
+    "homepage": "https://github.com/BochilGaming/games-wabot",
     "author": {
-        "name": "Yor Forger-MD"
+        "name": "BochilGaming"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/tr4github/Yor-Forger-MD.git"
+        "url": "git+https://github.com/BochilGaming/games-wabot.git"
     },
     "bugs": {
-        "url": "https://github.com/tr4github/Yor-Forger-MD/issues"
+        "url": "https://github.com/BochilGaming/games-wabot/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
         "@adiwajshing/baileys": "^4.1.0",
         "@bochilteam/scraper": "^2.0.0",
+        "dhn-api": "^1.1.3",
         "awesome-phonenumber": "^2.68.0",
         "axios": "^0.24.0",
         "cfonts": "^2.10.0",
@@ -53,9 +54,10 @@
         "formdata-node": "^4.3.2",
         "human-readable": "^0.2.1",
         "jsdom": "^19.0.0",
+        "link-preview-js": "^2.1.13",
         "lodash": "^4.17.21",
         "lowdb": "^3.0.0",
-        "mongoose": "github:Automattic/mongoose",
+        "mongoose": "^6.3.3",
         "node-fetch": "^3.2.0",
         "node-gtts": "^2.0.2",
         "node-webpmux": "^3.1.1",
